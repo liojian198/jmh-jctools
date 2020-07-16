@@ -1,0 +1,2 @@
+JMH S 45 com.bin.jmc.samples.stringcontract.StringDemo S 78 com.bin.jmc.samples.stringcontract.generated.StringDemo_stringBuildAdd_jmhTest S 14 stringBuildAdd S 10 Throughput I 1 8 A 1 1 1 E I 1 5 T 3 1 s E I 2 10 T 3 5 s E I 1 2 E E E E E E U 12 MILLISECONDS E E 
+JMH S 45 com.bin.jmc.samples.stringcontract.StringDemo S 73 com.bin.jmc.samples.stringcontract.generated.StringDemo_stringAdd_jmhTest S 9 stringAdd S 10 Throughput I 1 8 A 1 1 1 E I 1 5 T 3 1 s E I 2 10 T 3 5 s E I 1 2 E E E E E E U 12 MILLISECONDS E E 
